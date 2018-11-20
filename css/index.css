@@ -1,0 +1,51 @@
+body {
+    background: gray;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+#blockOne {
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+    background: white;
+    width: 80%;
+    margin: auto;
+    color: black; 
+    text-align: justify;
+}
+
+#blockTwo {
+    width: 80%;
+    margin:auto;
+
+}
+#blockTwoOne {
+    float: left;
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+    background: white;
+    width: 45%;
+    color: black; 
+    text-align: justify;
+}
+
+#blockTwoTwo {
+    float: right;
+    border-style: solid;
+    border-width: 3px;
+    padding: 5px;
+    background: white;
+    width: 45%;
+    color: black; 
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center
+}
